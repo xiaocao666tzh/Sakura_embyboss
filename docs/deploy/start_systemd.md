@@ -39,7 +39,7 @@ __数据库的搭建方式多样，本文仅截取两种来说__
 pip3 install -r requirements.txt
 ```
 
-## 4、填写 confi.json
+## 4、填写 config.json
 
 [:material-file-settings: 此部分同 docker](./start_docker.md#3填写configjson)，请填写完以后 `python main.py` 启动程序，试运行
 
